@@ -38,7 +38,7 @@ Currently Learning
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/aditya-kaushik-11b39b276)
+[![LinkedIn]https://www.linkedin.com/in/aditya-kaushik-11b39b276/
 [![GitHub]https://github.com/Adityachandkaushik/ 
 ---
 
