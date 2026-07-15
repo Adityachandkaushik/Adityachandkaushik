@@ -2,7 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:1F2937&height=180&section=header&text=Aditya%20Kaushik&fontSize=42&fontColor=00D9FF&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20CI%2FCD%20%7C%20Docker&descAlignY=62&descSize=16&descColor=9CA3AF)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+CI%2FCD+pipelines+with+Jenkins;Deploying+applications+on+AWS+EC2;Learning+Terraform+%26+Kubernetes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+CI%2FCD+pipelines+with+Jenkins;Deploying+applications+on+AWS+EC2;Automating+infrastructure+with+Terraform+%26+Ansible" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -18,13 +18,10 @@
 
 I'm a **DevOps Engineer** at **MetConnect Infotech Pvt Ltd**, based in Patna, Bihar, India.
 
-I work on building CI/CD pipelines, containerizing applications with Docker, and deploying them on AWS. Most of my day-to-day involves Jenkins, EC2, and getting code from a commit to a running deployment reliably.
+I work on building CI/CD pipelines, containerizing applications with Docker, and deploying them on AWS. Most of my day-to-day involves Jenkins, EC2, Terraform, and Ansible — getting code from a commit to a running deployment reliably.
 
-I learn best by building things, not just reading about them — every tool on this profile is something I've actually used in a project, not just read a blog post about.
-
-- 🔧 Working with **Docker, Jenkins, AWS EC2, Aurora RDS, Nginx**
+- 🔧 Working with **Docker, Jenkins, AWS EC2, Aurora RDS, Nginx, Terraform, Ansible**
 - 🔍 Adding **SonarQube** and **Trivy** into my pipelines for code quality and security scanning
-- 📚 Currently learning **Terraform** and **Kubernetes** — not production-ready yet, actively building with them
 - 📝 I document what I learn on LinkedIn
 
 <br/>
@@ -46,6 +43,8 @@ I learn best by building things, not just reading about them — every tool on t
 ![Docker](https://img.shields.io/badge/Docker-0B0F19?style=flat-square&logo=docker&logoColor=00D9FF)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-0B0F19?style=flat-square&logo=docker&logoColor=00D9FF)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0B0F19?style=flat-square&logo=jenkins&logoColor=00D9FF)
+![Terraform](https://img.shields.io/badge/Terraform-0B0F19?style=flat-square&logo=terraform&logoColor=00D9FF)
+![Ansible](https://img.shields.io/badge/Ansible-0B0F19?style=flat-square&logo=ansible&logoColor=00D9FF)
 ![SonarQube](https://img.shields.io/badge/SonarQube-0B0F19?style=flat-square&logo=sonarqube&logoColor=00D9FF)
 ![Trivy](https://img.shields.io/badge/Trivy-0B0F19?style=flat-square&logo=aquasecurity&logoColor=00D9FF)
 ![Git](https://img.shields.io/badge/Git-0B0F19?style=flat-square&logo=git&logoColor=00D9FF)
@@ -53,18 +52,6 @@ I learn best by building things, not just reading about them — every tool on t
 ![Linux](https://img.shields.io/badge/Linux-0B0F19?style=flat-square&logo=linux&logoColor=00D9FF)
 ![Bash](https://img.shields.io/badge/Bash-0B0F19?style=flat-square&logo=gnubash&logoColor=00D9FF)
 ![Nginx](https://img.shields.io/badge/Nginx-0B0F19?style=flat-square&logo=nginx&logoColor=00D9FF)
-
-**Currently learning (not production experience yet):**
-
-![Terraform](https://img.shields.io/badge/Terraform-0B0F19?style=flat-square&logo=terraform&logoColor=7B61FF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0B0F19?style=flat-square&logo=kubernetes&logoColor=7B61FF)
-![Helm](https://img.shields.io/badge/Helm-0B0F19?style=flat-square&logo=helm&logoColor=7B61FF)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-0B0F19?style=flat-square&logo=argo&logoColor=7B61FF)
-![Prometheus](https://img.shields.io/badge/Prometheus-0B0F19?style=flat-square&logo=prometheus&logoColor=7B61FF)
-![Grafana](https://img.shields.io/badge/Grafana-0B0F19?style=flat-square&logo=grafana&logoColor=7B61FF)
-![Ansible](https://img.shields.io/badge/Ansible-0B0F19?style=flat-square&logo=ansible&logoColor=7B61FF)
-![AWS ECS](https://img.shields.io/badge/AWS_ECS-0B0F19?style=flat-square&logo=amazonecs&logoColor=7B61FF)
-![AWS EKS](https://img.shields.io/badge/AWS_EKS-0B0F19?style=flat-square&logo=amazoneks&logoColor=7B61FF)
 
 <br/>
 
@@ -122,7 +109,7 @@ End-to-end setup connecting the Jenkins pipeline above to an actual Docker deplo
 
 ## Career Objective
 
-I want to grow into a well-rounded Cloud & DevOps Engineer. Right now that means going deeper into **Terraform** for infrastructure as code and **Kubernetes** for container orchestration — both are things I'm actively learning through projects, not tools I'm claiming production experience with yet.
+I want to grow into a well-rounded Cloud & DevOps Engineer — deepening my work in infrastructure automation with Terraform and Ansible, and improving how I build and secure CI/CD pipelines end to end.
 
 <br/>
 
@@ -138,5 +125,5 @@ I want to grow into a well-rounded Cloud & DevOps Engineer. Right now that means
 <br/>
 
 <div align="center">
-<sub>Aditya Kaushik · DevOps Engineer · Patna, India</sub>
+<sub>Aditya Kaushik · DevOps Engineer · Patna, Bihar, India</sub>
 </div>
