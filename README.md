@@ -30,7 +30,7 @@
 
 I'm a **DevOps Engineer** at **MetConnect Infotech Pvt Ltd**, based in Patna, Bihar, India.
 
-I work on building CI/CD pipelines, containerizing applications with Docker, and deploying them on AWS. Most of my day-to-day involves Jenkins, EC2, Terraform, and Ansible — getting code from a commit to a running deployment reliably.
+I work on building CI/CD pipelines,using sonarqube,containerizing applications with Docker, and deploying them on AWS. Most of my day-to-day involves Jenkins, EC2, Terraform, and Ansible — getting code from a commit to a running deployment reliably.
 
 <table width="100%">
 <tr>
