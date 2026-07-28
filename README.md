@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=rounded&color=0:0B0F19,50:14213D,100:1F2937&height=220&section=header&text=AD1TYA%20KAUSHIK&fontSize=42&fontColor=00D9FF&animation=twinkling&fontAlignY=34&desc=DevOps%20Engineer%20%E2%80%94%20AWS%20%C2%B7%20CI%2FCD%20%C2%B7%20Docker%20%C2%B7%20IaC&descAlignY=54&descSize=16&descColor=9CA3AF)
+![Banner](https://capsule-render.vercel.app/api?type=rounded&color=0:0B0F19,50:14213D,100:1F2937&height=220&section=header&text=ADITYA%20KAUSHIK&fontSize=42&fontColor=00D9FF&animation=twinkling&fontAlignY=34&desc=DevOps%20Engineer%20%E2%80%94%20AWS%20%C2%B7%20CI%2FCD%20%C2%B7%20Docker%20%C2%B7%20IaC&descAlignY=54&descSize=16&descColor=9CA3AF)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1100&color=00D9FF&center=true&vCenter=true&width=680&lines=Building+CI%2FCD+pipelines+with+Jenkins;Deploying+applications+on+AWS+EC2;Automating+infrastructure+with+Terraform+%26+Ansible" alt="Typing SVG" />
 
@@ -18,15 +18,20 @@
 <a href="https://github.com/Adityachandkaushik"><img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=FF9900" /></a>
 </p>
 
-<sub>
+<br/>
 
-**[ About ](#-about-me)** · **[ Focus ](#-current-focus)** · **[ Learning ](#-whats-next)** · **[ Stack ](#-tech-stack)** · **[ Workflow ](#-devops-workflow)** · **[ Projects ](#-featured-projects)** · **[ Stats ](#-github-stats)** · **[ Contact ](#-lets-connect)**
-
-</sub>
+<p>
+<a href="#-about-me"><img src="https://img.shields.io/badge/01-About-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
+<a href="#-current-focus"><img src="https://img.shields.io/badge/02-Focus-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
+<a href="#-whats-next"><img src="https://img.shields.io/badge/03-Learning-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/04-Stack-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
+<a href="#-devops-workflow"><img src="https://img.shields.io/badge/05-Workflow-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/06-Projects-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
+<a href="#-github-stats"><img src="https://img.shields.io/badge/07-Stats-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
+<a href="#-lets-connect"><img src="https://img.shields.io/badge/08-Contact-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
+</p>
 
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:1F2937&height=2&width=100%" />
 
@@ -34,7 +39,7 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ```bash
 $ whoami
@@ -51,21 +56,36 @@ $ status --daily-driver
 
 $ echo $PHILOSOPHY
 > "Pipelines that fail loudly, deployments that stay quiet."
+
+$ _
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
+
+<table width="100%">
+<tr><td>
 
 **🔧 Building with**
 Docker · Jenkins
 AWS EC2 · Aurora RDS
 Nginx · Terraform · Ansible
 
+</td></tr>
+<tr><td>
+
 **🔍 Integrating**
 SonarQube & Trivy
-for quality + security gates
+into pipelines for quality
+and security gates
+
+</td></tr>
+<tr><td>
 
 📝 *I document what I learn on LinkedIn.*
+
+</td></tr>
+</table>
 
 </td>
 </tr>
@@ -92,13 +112,14 @@ for quality + security gates
 
 ## 📚 What's Next
 
+> [!TIP]
+> **Currently leveling up:** writing more of my infrastructure as reusable **Terraform modules** and **Ansible roles**, and tightening the security gates in my **Jenkins pipelines**.
+
 <div align="center">
 
-![Terraform](https://img.shields.io/badge/Going_deeper_on-Terraform-1F2937?style=flat-square&logo=terraform&logoColor=00D9FF&labelColor=0B0F19)
-![Ansible](https://img.shields.io/badge/Going_deeper_on-Ansible-1F2937?style=flat-square&logo=ansible&logoColor=00D9FF&labelColor=0B0F19)
+![Terraform](https://img.shields.io/badge/Deepening-Terraform-1F2937?style=flat-square&logo=terraform&logoColor=00D9FF&labelColor=0B0F19)
+![Ansible](https://img.shields.io/badge/Deepening-Ansible-1F2937?style=flat-square&logo=ansible&logoColor=00D9FF&labelColor=0B0F19)
 ![Security](https://img.shields.io/badge/Sharpening-Pipeline_Security-1F2937?style=flat-square&logo=trivy&logoColor=00D9FF&labelColor=0B0F19)
-
-*Writing more of my infrastructure as reusable Terraform modules and Ansible roles, and tightening the security gates in my Jenkins pipelines.*
 
 </div>
 
@@ -186,52 +207,67 @@ flowchart TD
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>📦 GoPass Backend</b></summary>
+<summary><b>📦 &nbsp;GoPass Backend</b></summary>
 <br/>
 
 Node.js + Express + MongoDB backend deployed on AWS EC2 with Aurora RDS, fronted by AWS WAF for baseline request filtering.
 
-`Node.js` `Express` `MongoDB` `EC2` `Aurora RDS` `WAF`
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![Express](https://img.shields.io/badge/Express-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![EC2](https://img.shields.io/badge/EC2-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![Aurora RDS](https://img.shields.io/badge/Aurora_RDS-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![WAF](https://img.shields.io/badge/WAF-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
 
 </details>
 
 <details>
-<summary><b>🐳 Docker Production Setup</b></summary>
+<summary><b>🐳 &nbsp;Docker Production Setup</b></summary>
 <br/>
 
 Multi-container MERN stack orchestrated with Docker Compose — isolated frontend, backend, and database containers with custom networking and persistent volumes.
 
-`Docker Compose` `MERN` `Networking` `Volumes`
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![MERN](https://img.shields.io/badge/MERN-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![Networking](https://img.shields.io/badge/Networking-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![Volumes](https://img.shields.io/badge/Volumes-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
 
 </details>
 
 <details>
-<summary><b>🔧 Jenkins Pipeline</b></summary>
+<summary><b>🔧 &nbsp;Jenkins Pipeline</b></summary>
 <br/>
 
 End-to-end CI pipeline: checkout from GitHub, build and test, scan with SonarQube and Trivy, then build and push a Docker image.
 
-`Jenkins` `SonarQube` `Trivy` `Docker`
+![Jenkins](https://img.shields.io/badge/Jenkins-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![SonarQube](https://img.shields.io/badge/SonarQube-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![Trivy](https://img.shields.io/badge/Trivy-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
 
 </details>
 
 <details>
-<summary><b>📚 Jenkins Shared Library</b></summary>
+<summary><b>📚 &nbsp;Jenkins Shared Library</b></summary>
 <br/>
 
 Reusable Groovy pipeline functions that standardize common stages so they aren't rewritten across every project's Jenkinsfile.
 
-`Groovy` `Jenkins` `CI/CD`
+![Groovy](https://img.shields.io/badge/Groovy-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![Jenkins](https://img.shields.io/badge/Jenkins-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
 
 </details>
 
 <details>
-<summary><b>🔗 Docker + Jenkins Deployment</b></summary>
+<summary><b>🔗 &nbsp;Docker + Jenkins Deployment</b></summary>
 <br/>
 
 The full loop — connecting the Jenkins pipeline above to an actual Docker deployment step, closing the gap between "build passes" and "it's live."
 
-`Jenkins` `Docker` `Deployment`
+![Jenkins](https://img.shields.io/badge/Jenkins-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
+![Deployment](https://img.shields.io/badge/Deployment-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937)
 
 </details>
 
@@ -260,7 +296,11 @@ The full loop — connecting the Jenkins pipeline above to an actual Docker depl
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Adityachandkaushik&hide_border=true&background=0B0F19&stroke=1F2937&ring=00D9FF&fire=FF9900&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=00D9FF&sideLabels=9CA3AF&dates=9CA3AF" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=Adityachandkaushik&hide_border=true&background=0B0F19&stroke=1F2937&ring=00D9FF&fire=FF9900&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=00D9FF&sideLabels=9CA3AF&dates=9CA3AF" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachandkaushik&bg_color=0B0F19&color=00D9FF&line=FF9900&point=F3F4F6&area=true&area_color=00D9FF&hide_border=true" />
 
 <br/><br/>
 
@@ -268,13 +308,20 @@ The full loop — connecting the Jenkins pipeline above to an actual Docker depl
 
 </div>
 
+<!--
+Optional: animate the section above with a contribution snake by adding
+.github/workflows/snake.yml (platane/snk) to this repo, then embed:
+https://raw.githubusercontent.com/Adityachandkaushik/Adityachandkaushik/output/github-contribution-grid-snake-dark.svg
+-->
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2937,100:00D9FF&height=2&width=100%" />
 
 ## 🎯 Career Objective
 
-> Growing into a well-rounded Cloud &amp; DevOps Engineer — going deeper on infrastructure automation with Terraform and Ansible, and sharpening how I build and secure CI/CD pipelines from commit to production.
+> [!NOTE]
+> Growing into a well-rounded **Cloud &amp; DevOps Engineer** — going deeper on infrastructure automation with Terraform and Ansible, and sharpening how I build and secure CI/CD pipelines from commit to production.
 
 <br/>
 
