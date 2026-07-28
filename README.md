@@ -164,27 +164,16 @@ and security gates
 ## 🗺️ DevOps Workflow
 
 ```mermaid
-flowchart TD
-    subgraph SRC[" 📥 Source "]
-        A[Developer Push] --> B[GitHub]
-    end
-
-    subgraph CI[" 🔨 Build & Test "]
-        B --> C[Jenkins Trigger]
-        C --> D[Checkout & Build]
-        D --> E[Test]
-    end
-
-    subgraph GATE[" 🛡️ Quality & Security "]
-        E --> F[SonarQube]
-        F --> G[Trivy Scan]
-    end
-
-    subgraph SHIP[" 🚀 Ship "]
-        G --> H[Docker Build]
-        H --> I[Docker Push]
-        I --> J[Deploy to EC2]
-    end
+flowchart LR
+    A[Developer Push] --> B[GitHub]
+    B --> C[Jenkins Trigger]
+    C --> D[Checkout & Build]
+    D --> E[Test]
+    E --> F[SonarQube]
+    F --> G[Trivy Scan]
+    G --> H[Docker Build]
+    H --> I[Docker Push]
+    I --> J[Deploy to EC2]
 
     style A fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
     style B fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
@@ -198,7 +187,7 @@ flowchart TD
     style J fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
 ```
 
-<p align="center"><sub>Checkout → build → quality &amp; security scanning → containerized deployment to EC2.</sub></p>
+<p align="center"><sub>📥 Source → 🔨 Build &amp; Test → 🛡️ Quality &amp; Security → 🚀 Ship — checkout, build, quality &amp; security scanning, then containerized deployment to EC2.</sub></p>
 
 <br/>
 
