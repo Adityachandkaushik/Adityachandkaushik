@@ -30,17 +30,29 @@
 
 I'm a **DevOps Engineer** at **MetConnect Infotech Pvt Ltd**, based in Patna, Bihar, India.
 
-I work on building CI/CD pipelines,containerizing applications with Docker, and deploying them on AWS. Most of my day-to-day involves Jenkins, EC2, Terraform, and Ansible — getting code from a commit to a running deployment reliably.
+I build CI/CD pipelines, containerize applications with Docker, and deploy them on AWS —
+turning a `git push` into a reliable, repeatable production release. Day-to-day, that means
+working with **Jenkins, EC2, Terraform, and Ansible** to keep infrastructure consistent and
+deployments boring (in a good way).
+
+I care about pipelines that fail loudly and deploy quietly — visibility into what's shipping,
+and confidence that it'll stay up once it does.
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4>🔧 Currently building with</h4>
-Docker · Jenkins · AWS EC2 · Aurora RDS<br/>Nginx · Terraform · Ansible
+
+**🔧 Currently building with**
+Docker · Jenkins · AWS EC2 · Aurora RDS
+Nginx · Terraform · Ansible
+
 </td>
 <td width="50%" valign="top">
-<h4>🔍 Also integrating</h4>
-SonarQube & Trivy into pipelines<br/>for code quality and security scanning
+
+**🔍 Also integrating**
+SonarQube & Trivy into pipelines
+for code quality and security scanning
+
 </td>
 </tr>
 </table>
@@ -50,6 +62,59 @@ SonarQube & Trivy into pipelines<br/>for code quality and security scanning
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2937,100:00D9FF&height=3&width=100%" />
+
+<br/>
+
+<div align="center">
+
+### 🎯 Current Focus
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+**☁️ Cloud Infrastructure**
+Provisioning and managing AWS resources — EC2, Aurora RDS, Route53, S3 — with an eye on reliability and cost.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🔁 CI/CD Automation**
+Building Jenkins pipelines that move code from commit to container to deployment with minimal manual steps.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🛡️ Pipeline Security**
+Wiring SonarQube and Trivy into build stages so quality and vulnerability checks run before anything ships.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📚 What I'm Learning
+
+</div>
+
+<div align="center">
+
+![Terraform](https://img.shields.io/badge/Going_deeper_on-Terraform-0B0F19?style=flat-square&logo=terraform&logoColor=00D9FF&labelColor=1F2937)
+![Ansible](https://img.shields.io/badge/Going_deeper_on-Ansible-0B0F19?style=flat-square&logo=ansible&logoColor=00D9FF&labelColor=1F2937)
+![Security](https://img.shields.io/badge/Sharpening-Pipeline_Security-0B0F19?style=flat-square&logo=trivy&logoColor=00D9FF&labelColor=1F2937)
+
+</div>
+
+<p align="center">Currently focused on writing more of my infrastructure as reusable Terraform modules and Ansible roles, and tightening the security gates in my Jenkins pipelines.</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:1F2937&height=3&width=100%" />
 
 <br/>
 
@@ -101,65 +166,104 @@ SonarQube & Trivy into pipelines<br/>for code quality and security scanning
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:1F2937&height=3&width=100%" />
-
-<br/>
-
-<div align="center">
-
-### 🔁 CI/CD Pipeline — What I Actually Build
-
-</div>
-
-<div align="center">
-
-```
-GitHub Push → Jenkins Trigger → Checkout → Build → Test
-              → SonarQube (code quality) → Trivy (security scan)
-              → Docker Build → Docker Push → Deploy to EC2
-```
-
-</div>
-
-<p align="center">This is the pipeline structure I use in my Jenkins projects — checkout, build, quality/security scanning, then containerized deployment.</p>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2937,100:00D9FF&height=3&width=100%" />
 
 <br/>
 
 <div align="center">
 
-### 🚀 Projects
+### 🗺️ DevOps Workflow
+
+</div>
+
+```mermaid
+flowchart LR
+    A[Developer Push] --> B[GitHub]
+    B --> C[Jenkins Trigger]
+    C --> D[Checkout & Build]
+    D --> E[Test]
+    E --> F[SonarQube\nCode Quality]
+    F --> G[Trivy\nSecurity Scan]
+    G --> H[Docker Build]
+    H --> I[Docker Push]
+    I --> J[Deploy to EC2]
+
+    style A fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
+    style B fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
+    style C fill:#1F2937,stroke:#00D9FF,color:#F3F4F6
+    style D fill:#1F2937,stroke:#00D9FF,color:#F3F4F6
+    style E fill:#1F2937,stroke:#00D9FF,color:#F3F4F6
+    style F fill:#14213D,stroke:#FF9900,color:#F3F4F6
+    style G fill:#14213D,stroke:#FF9900,color:#F3F4F6
+    style H fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
+    style I fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
+    style J fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
+```
+
+<p align="center">This is the shape of the pipelines I build — checkout, build, quality &amp; security scanning, then containerized deployment to EC2.</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:1F2937&height=3&width=100%" />
+
+<br/>
+
+<div align="center">
+
+### 🚀 Featured Projects
 
 </div>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h4>📦 GoPass Backend</h4>
-Backend service built with Node.js, Express, and MongoDB, deployed on AWS EC2 with Aurora RDS. AWS WAF configured in front for basic protection.
+
+**📦 GoPass Backend**
+
+Node.js + Express + MongoDB backend deployed on AWS EC2 with Aurora RDS, fronted by AWS WAF for baseline request filtering.
+
+`Node.js` `Express` `MongoDB` `EC2` `Aurora RDS` `WAF`
+
 </td>
 <td width="50%" valign="top">
-<h4>🐳 Docker Production Setup</h4>
-Multi-container MERN application using Docker Compose — separate frontend, backend, and database containers with custom networking and persistent volumes.
+
+**🐳 Docker Production Setup**
+
+Multi-container MERN stack orchestrated with Docker Compose — isolated frontend, backend, and database containers with custom networking and persistent volumes.
+
+`Docker Compose` `MERN` `Networking` `Volumes`
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>🔧 Jenkins Pipeline</h4>
-CI/CD pipeline that checks out code from GitHub, builds and tests it, runs it through SonarQube and Trivy, then builds and pushes a Docker image.
+
+**🔧 Jenkins Pipeline**
+
+End-to-end CI pipeline: checkout from GitHub, build and test, scan with SonarQube and Trivy, then build and push a Docker image.
+
+`Jenkins` `SonarQube` `Trivy` `Docker`
+
 </td>
 <td width="50%" valign="top">
-<h4>📚 Jenkins Shared Library</h4>
-Reusable Groovy pipeline functions so the same Jenkins stages aren't repeated across projects.
+
+**📚 Jenkins Shared Library**
+
+Reusable Groovy pipeline functions that standardize common stages so they aren't rewritten across every project's Jenkinsfile.
+
+`Groovy` `Jenkins` `CI/CD`
+
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
-<h4>🔗 Docker + Jenkins Deployment</h4>
-End-to-end setup connecting the Jenkins pipeline above to an actual Docker deployment step.
+<td colspan="2" valign="top" align="center">
+
+**🔗 Docker + Jenkins Deployment**
+
+The full loop — connecting the Jenkins pipeline above to an actual Docker deployment step, closing the gap between "build passes" and "it's live."
+
+`Jenkins` `Docker` `Deployment`
+
 </td>
 </tr>
 </table>
@@ -172,7 +276,7 @@ End-to-end setup connecting the Jenkins pipeline above to an actual Docker deplo
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:1F2937&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2937,100:00D9FF&height=3&width=100%" />
 
 <br/>
 
@@ -185,11 +289,25 @@ End-to-end setup connecting the Jenkins pipeline above to an actual Docker deplo
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityachandkaushik&hide_border=true&background=0B0F19&stroke=1F2937&ring=00D9FF&fire=FF9900&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=00D9FF&sideLabels=9CA3AF&dates=9CA3AF" />
+<img src="https://streak-stats.demolab.com/?user=Adityachandkaushik&hide_border=true&background=0B0F19&stroke=1F2937&ring=00D9FF&fire=FF9900&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=00D9FF&sideLabels=9CA3AF&dates=9CA3AF" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachandkaushik&bg_color=0B0F19&color=00D9FF&line=FF9900&point=F3F4F6&area=true&area_color=00D9FF&hide_border=true" width="97%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Adityachandkaushik&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:1F2937&height=3&width=100%" />
+
+<br/>
+
+<div align="center">
+
+### 🎯 Career Objective
+
+<p width="600">Growing into a well-rounded Cloud &amp; DevOps Engineer — going deeper on infrastructure automation with Terraform and Ansible, and sharpening how I build and secure CI/CD pipelines from commit to production.</p>
 
 </div>
 
@@ -201,17 +319,9 @@ End-to-end setup connecting the Jenkins pipeline above to an actual Docker deplo
 
 <div align="center">
 
-### 🎯 Career Objective
+### 🤝 Let's Connect
 
-<p width="600">I want to grow into a well-rounded Cloud & DevOps Engineer — deepening my work in infrastructure automation with Terraform and Ansible, and improving how I build and secure CI/CD pipelines end to end.</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🤝 Connect
+Open to DevOps, Cloud, and Platform Engineering conversations and opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/aditya-kaushik-11b39b276/)
 [![GitHub](https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=FF9900)](https://github.com/Adityachandkaushik)
