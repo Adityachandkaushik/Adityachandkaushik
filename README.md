@@ -25,7 +25,7 @@
 <a href="#-current-focus"><img src="https://img.shields.io/badge/02-Focus-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
 <a href="#-whats-next"><img src="https://img.shields.io/badge/03-Learning-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/04-Stack-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
-<a href="#-devops-workflow"><img src="https://img.shields.io/badge/05-Workflow-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
+<a href="#-cicd-pipeline-in-action"><img src="https://img.shields.io/badge/05-Pipeline-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
 <a href="#-featured-projects"><img src="https://img.shields.io/badge/06-Projects-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
 <a href="#-github-stats"><img src="https://img.shields.io/badge/07-Stats-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
 <a href="#-lets-connect"><img src="https://img.shields.io/badge/08-Contact-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF" /></a>
@@ -161,33 +161,39 @@ and security gates
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:1F2937&height=2&width=100%" />
 
-## 🗺️ DevOps Workflow
+## 🔁 CI/CD Pipeline in Action
 
-```mermaid
-flowchart LR
-    A[Developer Push] --> B[GitHub]
-    B --> C[Jenkins Trigger]
-    C --> D[Checkout & Build]
-    D --> E[Test]
-    E --> F[SonarQube]
-    F --> G[Trivy Scan]
-    G --> H[Docker Build]
-    H --> I[Docker Push]
-    I --> J[Deploy to EC2]
+<div align="center">
 
-    style A fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
-    style B fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
-    style C fill:#1F2937,stroke:#00D9FF,color:#F3F4F6
-    style D fill:#1F2937,stroke:#00D9FF,color:#F3F4F6
-    style E fill:#1F2937,stroke:#00D9FF,color:#F3F4F6
-    style F fill:#14213D,stroke:#FF9900,color:#F3F4F6
-    style G fill:#14213D,stroke:#FF9900,color:#F3F4F6
-    style H fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
-    style I fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
-    style J fill:#0B0F19,stroke:#00D9FF,color:#F3F4F6
+![Push](https://img.shields.io/badge/Push-1F2937?style=flat-square&labelColor=0B0F19&color=00D9FF) →
+![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&labelColor=0B0F19&logo=github&logoColor=00D9FF&color=1F2937) →
+![Jenkins](https://img.shields.io/badge/Jenkins-1F2937?style=flat-square&labelColor=0B0F19&logo=jenkins&logoColor=00D9FF&color=1F2937) →
+![Build](https://img.shields.io/badge/Build_%26_Test-1F2937?style=flat-square&labelColor=0B0F19&color=1F2937) →
+![SonarQube](https://img.shields.io/badge/SonarQube-14213D?style=flat-square&labelColor=0B0F19&logo=sonarqube&logoColor=FF9900&color=14213D) →
+![Trivy](https://img.shields.io/badge/Trivy_Scan-14213D?style=flat-square&labelColor=0B0F19&logo=aquasecurity&logoColor=FF9900&color=14213D) →
+![Docker](https://img.shields.io/badge/Docker_Build-1F2937?style=flat-square&labelColor=0B0F19&logo=docker&logoColor=00D9FF&color=1F2937) →
+![Push](https://img.shields.io/badge/Docker_Push-1F2937?style=flat-square&labelColor=0B0F19&logo=docker&logoColor=00D9FF&color=1F2937) →
+![Deploy](https://img.shields.io/badge/Deploy_to_EC2-0B0F19?style=flat-square&labelColor=0B0F19&logo=amazonec2&logoColor=00D9FF&color=0B0F19)
+
+</div>
+
+```bash
+$ pipeline run --project brilliant-pipeline
+
+▸ [1/9] Checkout source ..................... ✔ done        (2s)
+▸ [2/9] Install dependencies ................. ✔ done        (14s)
+▸ [3/9] Run unit tests ....................... ✔ passed      (8s)
+▸ [4/9] SonarQube quality gate ............... ✔ passed      (11s)
+▸ [5/9] Trivy vulnerability scan .............. ✔ 0 critical  (6s)
+▸ [6/9] Docker build .......................... ✔ image built (19s)
+▸ [7/9] Docker push → registry ................ ✔ pushed      (5s)
+▸ [8/9] Deploy to AWS EC2 ...................... ✔ live        (9s)
+▸ [9/9] Health check ........................... ✔ 200 OK
+
+✔ Pipeline succeeded — deployed to production in 1m14s
 ```
 
-<p align="center"><sub>📥 Source → 🔨 Build &amp; Test → 🛡️ Quality &amp; Security → 🚀 Ship — checkout, build, quality &amp; security scanning, then containerized deployment to EC2.</sub></p>
+<p align="center"><sub>The pipeline shape I actually build: checkout → build/test → quality &amp; security gates → containerized deploy to EC2.</sub></p>
 
 <br/>
 
