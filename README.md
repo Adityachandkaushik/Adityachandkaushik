@@ -281,21 +281,21 @@ The full loop — connecting the Jenkins pipeline above to an actual Docker depl
 <table width="100%">
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Adityachandkaushik&show_icons=true&hide_border=true&count_private=true&bg_color=0B0F19&title_color=00D9FF&icon_color=FF9900&text_color=9CA3AF&border_color=1F2937" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Adityachandkaushik&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&cache_seconds=1800" />
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachandkaushik&layout=compact&hide_border=true&bg_color=0B0F19&title_color=00D9FF&text_color=9CA3AF&border_color=1F2937" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachandkaushik&layout=compact&langs_count=8&theme=transparent&cache_seconds=1800" />
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=Adityachandkaushik&hide_border=true&background=0B0F19&stroke=1F2937&ring=00D9FF&fire=FF9900&currStreakNum=F3F4F6&sideNums=F3F4F6&currStreakLabel=00D9FF&sideLabels=9CA3AF&dates=9CA3AF" />
+<img width="100%" src="https://streak-stats.demolab.com?user=Adityachandkaushik&theme=transparent&hide_border=true&cache_seconds=1800" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachandkaushik&bg_color=0B0F19&color=00D9FF&line=FF9900&point=F3F4F6&area=true&area_color=00D9FF&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachandkaushik&theme=github-compact&hide_border=true&radius=8" />
 
 <br/><br/>
 
