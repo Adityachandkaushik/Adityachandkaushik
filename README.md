@@ -1,36 +1,39 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,25:7C3AED,50:00E5FF,75:7C3AED,100:05070D&height=300&section=header&text=ADITYA%20KAUSHIK&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=CLOUD%20%26%20DEVOPS%20ENGINEER%20%E2%80%94%20AWS%20%C2%B7%20CI%2FCD%20%C2%B7%20DOCKER%20%C2%B7%20IaC&descAlignY=58&descSize=16&descColor=94A3B8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,25:7C3AED,50:00E5FF,75:7C3AED,100:05070D&height=300&section=header&text=ADITYA%20KAUSHIK&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=CLOUD%20%26%20DEVOPS%20ENGINEER%20%E2%80%94%20AWS%20%C2%B7%20CI%2FCD%20%C2%B7%20DOCKER%20%C2%B7%20IaC&descAlignY=58&descSize=16&descColor=00E5FF" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1100&color=00E5FF&center=true&vCenter=true&width=760&lines=Shipping+CI%2FCD+pipelines+with+Jenkins;Provisioning+AWS+infra+with+Terraform;Containerizing+%26+deploying+with+Docker;Automating+config+with+Ansible" alt="Typing SVG" />
 
 <br>
 
-`CI/CD` &nbsp;•&nbsp; `CLOUD` &nbsp;•&nbsp; `CONTAINERS` &nbsp;•&nbsp; `IaC`
+![](https://img.shields.io/badge/CI%2FCD-00E5FF?style=flat-square&labelColor=05070D)
+![](https://img.shields.io/badge/CLOUD-7C3AED?style=flat-square&labelColor=05070D)
+![](https://img.shields.io/badge/CONTAINERS-A855F7?style=flat-square&labelColor=05070D)
+![](https://img.shields.io/badge/IaC-22D3EE?style=flat-square&labelColor=05070D)
 
 <br>
 
-![](https://img.shields.io/badge/📍_PATNA,_BIHAR-05070D?style=for-the-badge&labelColor=05070D&color=0B1020)
-![](https://img.shields.io/badge/💼_METCONNECT_INFOTECH-05070D?style=for-the-badge&labelColor=05070D&color=0B1020)
-![](https://img.shields.io/badge/🎯_AWS_·_CI%2FCD_·_IAC-05070D?style=for-the-badge&labelColor=05070D&color=0B1020)
+![](https://img.shields.io/badge/📍_LOCATION-PATNA,_BIHAR-05070D?style=for-the-badge&labelColor=05070D&color=0B1020)
+![](https://img.shields.io/badge/💼_COMPANY-METCONNECT_INFOTECH-05070D?style=for-the-badge&labelColor=05070D&color=0B1020)
+![](https://img.shields.io/badge/🎯_FOCUS-AWS_·_CI%2FCD_·_IAC-05070D?style=for-the-badge&labelColor=05070D&color=0B1020)
 
-<img src="https://komarev.com/ghpvc/?username=Adityachandkaushik&style=for-the-badge&color=0B1020&labelColor=05070D&label=PROFILE+VIEWS" />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/aditya-kaushik-11b39b276/"><img src="https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=05070D" /></a>
-<a href="https://github.com/Adityachandkaushik"><img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=05070D" /></a>
+<img src="https://komarev.com/ghpvc/?username=Adityachandkaushik&style=for-the-badge&color=00E5FF&labelColor=05070D&label=PROFILE+VIEWS" />
 
 <br><br>
 
-<a href="#-about"><img src="https://img.shields.io/badge/01_ABOUT-0B1020?style=flat-square&labelColor=05070D&color=0B1020" /></a>
-<a href="#-current-focus"><img src="https://img.shields.io/badge/02_FOCUS-0B1020?style=flat-square&labelColor=05070D&color=0B1020" /></a>
-<a href="#-in-progress"><img src="https://img.shields.io/badge/03_LEARNING-0B1020?style=flat-square&labelColor=05070D&color=0B1020" /></a>
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/04_STACK-0B1020?style=flat-square&labelColor=05070D&color=0B1020" /></a>
-<a href="#-pipeline"><img src="https://img.shields.io/badge/05_PIPELINE-0B1020?style=flat-square&labelColor=05070D&color=0B1020" /></a>
-<a href="#-projects"><img src="https://img.shields.io/badge/06_PROJECTS-0B1020?style=flat-square&labelColor=05070D&color=0B1020" /></a>
-<a href="#-stats"><img src="https://img.shields.io/badge/07_STATS-0B1020?style=flat-square&labelColor=05070D&color=0B1020" /></a>
-<a href="#-connect"><img src="https://img.shields.io/badge/08_CONTACT-0B1020?style=flat-square&labelColor=05070D&color=0B1020" /></a>
+<a href="https://www.linkedin.com/in/aditya-kaushik-11b39b276/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070D" /></a>
+<a href="https://github.com/Adityachandkaushik"><img src="https://img.shields.io/badge/GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=05070D" /></a>
+
+<br><br>
+
+<a href="#-about"><img src="https://img.shields.io/badge/01_ABOUT-00E5FF?style=flat-square&labelColor=05070D" /></a>
+<a href="#-current-focus"><img src="https://img.shields.io/badge/02_FOCUS-7C3AED?style=flat-square&labelColor=05070D" /></a>
+<a href="#-in-progress"><img src="https://img.shields.io/badge/03_LEARNING-A855F7?style=flat-square&labelColor=05070D" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/04_STACK-00E5FF?style=flat-square&labelColor=05070D" /></a>
+<a href="#-pipeline"><img src="https://img.shields.io/badge/05_PIPELINE-7C3AED?style=flat-square&labelColor=05070D" /></a>
+<a href="#-projects"><img src="https://img.shields.io/badge/06_PROJECTS-A855F7?style=flat-square&labelColor=05070D" /></a>
+<a href="#-stats"><img src="https://img.shields.io/badge/07_STATS-00E5FF?style=flat-square&labelColor=05070D" /></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/08_CONTACT-7C3AED?style=flat-square&labelColor=05070D" /></a>
 
 </div>
 
@@ -44,9 +47,9 @@
 
 <br>
 
-<sub>01 / SECTION</sub>
+<sub>◆ 01 / SECTION ◆</sub>
 
-# 🖥️ ABOUT ME
+## 🖥️ ABOUT ME
 
 <sub>INFRASTRUCTURE &nbsp;•&nbsp; AUTOMATION &nbsp;•&nbsp; RELIABILITY</sub>
 
@@ -58,12 +61,9 @@
 <tr>
 <td width="55%" valign="top">
 
-<table width="100%">
-<tr><td>
-
 ```yaml
 ┌──────────────────────────────────────────────┐
-│  root@devops-node ~ %  SYSTEM ONLINE          │
+│  root@devops-node ~ %  SYSTEM ONLINE  🟢      │
 └──────────────────────────────────────────────┘
 ```
 
@@ -89,41 +89,30 @@ $ ping motivation.io
 $ _█
 ```
 
-</td></tr>
-</table>
-
 </td>
 <td width="45%" valign="top">
 
-<table width="100%">
-<tr><td>
-
 **🔧&nbsp; BUILDING WITH**
 
-![](https://img.shields.io/badge/-Docker-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
-![](https://img.shields.io/badge/-Jenkins-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
-![](https://img.shields.io/badge/-AWS_EC2-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
-![](https://img.shields.io/badge/-Aurora_RDS-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
-![](https://img.shields.io/badge/-Nginx-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
-![](https://img.shields.io/badge/-Terraform-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
-![](https://img.shields.io/badge/-Ansible-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
+![](https://img.shields.io/badge/Docker-00E5FF?style=flat-square&logo=docker&logoColor=05070D&labelColor=05070D)
+![](https://img.shields.io/badge/Jenkins-7C3AED?style=flat-square&logo=jenkins&logoColor=white&labelColor=05070D)
+![](https://img.shields.io/badge/AWS_EC2-A855F7?style=flat-square&logo=amazonec2&logoColor=white&labelColor=05070D)
+![](https://img.shields.io/badge/Aurora_RDS-00E5FF?style=flat-square&logo=amazonrds&logoColor=05070D&labelColor=05070D)
+![](https://img.shields.io/badge/Nginx-7C3AED?style=flat-square&logo=nginx&logoColor=white&labelColor=05070D)
+![](https://img.shields.io/badge/Terraform-A855F7?style=flat-square&logo=terraform&logoColor=white&labelColor=05070D)
+![](https://img.shields.io/badge/Ansible-00E5FF?style=flat-square&logo=ansible&logoColor=05070D&labelColor=05070D)
 
-</td></tr>
-<tr><td>
+<br>
 
 **🔍&nbsp; INTEGRATING**
 
 <sub>SonarQube ⚡ Trivy — wired straight into the pipeline as quality &amp; security gates.</sub>
 
-</td></tr>
-<tr><td>
+<br><br>
 
 **📝&nbsp; NOTES**
 
 <sub>I document what I learn on **LinkedIn**.</sub>
-
-</td></tr>
-</table>
 
 </td>
 </tr>
@@ -139,9 +128,9 @@ $ _█
 
 <br>
 
-<sub>02 / SECTION</sub>
+<sub>◆ 02 / SECTION ◆</sub>
 
-# 🚀 CURRENT FOCUS
+## 🚀 CURRENT FOCUS
 
 <sub>WHAT I'M ACTIVELY WORKING ON RIGHT NOW</sub>
 
@@ -153,59 +142,32 @@ $ _█
 <tr>
 <td align="center" width="33%" valign="top">
 
-<table width="100%"><tr><td align="center">
-
-### ☁️
-### CLOUD
-<sub>INFRASTRUCTURE</sub>
-
-<br>
+### ☁️ CLOUD
+`INFRASTRUCTURE`
 
 Provisioning &amp; managing AWS — EC2, Aurora RDS, Route53, S3 — reliability &amp; cost, always in balance.
 
-<br>
-
-![](https://img.shields.io/badge/●_ACTIVE-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
-
-</td></tr></table>
+![](https://img.shields.io/badge/●_ACTIVE-00E5FF?style=flat-square&labelColor=05070D)
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<table width="100%"><tr><td align="center">
-
-### 🔁
-### CI/CD
-<sub>AUTOMATION</sub>
-
-<br>
+### 🔁 CI/CD
+`AUTOMATION`
 
 Jenkins pipelines moving code from commit → container → deployment, hands off the wheel.
 
-<br>
-
-![](https://img.shields.io/badge/●_ACTIVE-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
-
-</td></tr></table>
+![](https://img.shields.io/badge/●_ACTIVE-7C3AED?style=flat-square&labelColor=05070D)
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<table width="100%"><tr><td align="center">
-
-### 🛡️
-### SECURITY
-<sub>PIPELINE GATES</sub>
-
-<br>
+### 🛡️ SECURITY
+`PIPELINE GATES`
 
 SonarQube &amp; Trivy wired into build stages — nothing ships without passing the gate.
 
-<br>
-
-![](https://img.shields.io/badge/●_ACTIVE-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
-
-</td></tr></table>
+![](https://img.shields.io/badge/●_ACTIVE-A855F7?style=flat-square&labelColor=05070D)
 
 </td>
 </tr>
@@ -219,9 +181,9 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 <br>
 
-<sub>03 / SECTION</sub>
+<sub>◆ 03 / SECTION ◆</sub>
 
-# 🔥 LEVELING UP
+## 🔥 LEVELING UP
 
 <sub>ENGINEERING SKILLS — CURRENT PROGRESS</sub>
 
@@ -240,7 +202,7 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 **🧱 TERRAFORM**
 
-`████████░░` **80%**
+![](https://progress-bar.xyz/80/?width=180&color=00E5FF&suffix=%25&title=)
 
 <sub>Reusable, modular IaC</sub>
 
@@ -249,7 +211,7 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 **🤖 ANSIBLE**
 
-`███████░░░` **70%**
+![](https://progress-bar.xyz/70/?width=180&color=7C3AED&suffix=%25&title=)
 
 <sub>Config management as code</sub>
 
@@ -258,7 +220,7 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 **🛡️ PIPELINE SECURITY**
 
-`███████░░░` **72%**
+![](https://progress-bar.xyz/72/?width=180&color=A855F7&suffix=%25&title=)
 
 <sub>Sharper SonarQube &amp; Trivy gates</sub>
 
@@ -276,9 +238,9 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 <br>
 
-<sub>04 / SECTION</sub>
+<sub>◆ 04 / SECTION ◆</sub>
 
-# 💠 TECH ARSENAL
+## 💠 TECH ARSENAL
 
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,bash,git,github,nginx&theme=dark&perline=9" />
 
@@ -294,14 +256,14 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 **☁️ AWS SERVICES**
 
-![EC2](https://img.shields.io/badge/EC2-0B1020?style=for-the-badge&logo=amazonec2&logoColor=00E5FF&labelColor=05070D)
-![IAM](https://img.shields.io/badge/IAM-0B1020?style=for-the-badge&logo=amazoniam&logoColor=00E5FF&labelColor=05070D)
-![VPC](https://img.shields.io/badge/VPC-0B1020?style=for-the-badge&logo=amazonaws&logoColor=00E5FF&labelColor=05070D)
-![Route53](https://img.shields.io/badge/Route53-0B1020?style=for-the-badge&logo=amazonroute53&logoColor=00E5FF&labelColor=05070D)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-0B1020?style=for-the-badge&logo=amazoncloudwatch&logoColor=00E5FF&labelColor=05070D)
-![S3](https://img.shields.io/badge/S3-0B1020?style=for-the-badge&logo=amazons3&logoColor=00E5FF&labelColor=05070D)
-![Aurora RDS](https://img.shields.io/badge/Aurora_RDS-0B1020?style=for-the-badge&logo=amazonrds&logoColor=00E5FF&labelColor=05070D)
-![WAF](https://img.shields.io/badge/AWS_WAF-0B1020?style=for-the-badge&logo=amazonaws&logoColor=00E5FF&labelColor=05070D)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white&labelColor=05070D)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazoniam&logoColor=white&labelColor=05070D)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=05070D)
+![Route53](https://img.shields.io/badge/Route53-FF9900?style=for-the-badge&logo=amazonroute53&logoColor=white&labelColor=05070D)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white&labelColor=05070D)
+![S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white&labelColor=05070D)
+![Aurora RDS](https://img.shields.io/badge/Aurora_RDS-FF9900?style=for-the-badge&logo=amazonrds&logoColor=white&labelColor=05070D)
+![WAF](https://img.shields.io/badge/AWS_WAF-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=05070D)
 
 </div>
 
@@ -312,10 +274,10 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 **⚙️ PIPELINES &amp; CONTAINERS**
 
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-0B1020?style=for-the-badge&logo=docker&logoColor=A855F7&labelColor=05070D)
-![SonarQube](https://img.shields.io/badge/SonarQube-0B1020?style=for-the-badge&logo=sonarqube&logoColor=A855F7&labelColor=05070D)
-![Trivy](https://img.shields.io/badge/Trivy-0B1020?style=for-the-badge&logo=aquasecurity&logoColor=A855F7&labelColor=05070D)
-![Ansible](https://img.shields.io/badge/Ansible-0B1020?style=for-the-badge&logo=ansible&logoColor=A855F7&labelColor=05070D)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=05070D)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=05070D)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white&labelColor=05070D)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=05070D)
 
 </div>
 
@@ -333,9 +295,9 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 <br>
 
-<sub>05 / SECTION</sub>
+<sub>◆ 05 / SECTION ◆</sub>
 
-# 🔁 CI/CD PIPELINE — LIVE
+## 🔁 CI/CD PIPELINE — LIVE
 
 <sub>SOURCE → BUILD → QUALITY GATE → SECURITY → CONTAINER → REGISTRY → DEPLOY → HEALTH</sub>
 
@@ -385,9 +347,9 @@ $ pipeline run --project brilliant-pipeline --live
 
 <br>
 
-<sub>06 / SECTION</sub>
+<sub>◆ 06 / SECTION ◆</sub>
 
-# 🛰️ FEATURED PROJECTS
+## 🛰️ FEATURED PROJECTS
 
 <sub>PRODUCTION &amp; PIPELINE WORK</sub>
 
@@ -398,7 +360,7 @@ $ pipeline run --project brilliant-pipeline --live
 <table width="100%">
 <tr><td>
 
-**📦&nbsp; GoPass Backend** &nbsp; ![](https://img.shields.io/badge/●_PRODUCTION-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
+**📦&nbsp; GoPass Backend** &nbsp; ![](https://img.shields.io/badge/●_PRODUCTION-00E5FF?style=flat-square&labelColor=05070D)
 
 Node.js + Express + MongoDB backend deployed on AWS EC2 with Aurora RDS, fronted by AWS WAF for baseline request filtering.
 
@@ -408,7 +370,7 @@ Node.js + Express + MongoDB backend deployed on AWS EC2 with Aurora RDS, fronted
 <sub>**HIGHLIGHTS**</sub>
 Production-hardened REST API · WAF-filtered edge · Managed relational data on Aurora
 
-![Node.js](https://img.shields.io/badge/Node.js-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![Express](https://img.shields.io/badge/Express-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![MongoDB](https://img.shields.io/badge/MongoDB-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![EC2](https://img.shields.io/badge/EC2-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![Aurora RDS](https://img.shields.io/badge/Aurora_RDS-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![WAF](https://img.shields.io/badge/WAF-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=05070D) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=05070D) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=05070D) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white&labelColor=05070D) ![Aurora RDS](https://img.shields.io/badge/Aurora_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white&labelColor=05070D) ![WAF](https://img.shields.io/badge/WAF-FF4F8B?style=flat-square&labelColor=05070D)
 
 [**⚡ View Repository →**](https://github.com/Adityachandkaushik?tab=repositories)
 
@@ -418,7 +380,7 @@ Production-hardened REST API · WAF-filtered edge · Managed relational data on 
 <table width="100%">
 <tr><td>
 
-**🐳&nbsp; Docker Production Setup** &nbsp; ![](https://img.shields.io/badge/●_STABLE-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
+**🐳&nbsp; Docker Production Setup** &nbsp; ![](https://img.shields.io/badge/●_STABLE-7C3AED?style=flat-square&labelColor=05070D)
 
 Multi-container MERN stack orchestrated with Docker Compose — isolated frontend, backend, and database containers with custom networking and persistent volumes.
 
@@ -428,7 +390,7 @@ Multi-container MERN stack orchestrated with Docker Compose — isolated fronten
 <sub>**HIGHLIGHTS**</sub>
 Fully isolated service containers · Custom bridge networking · Persistent data volumes
 
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![MERN](https://img.shields.io/badge/MERN-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![Networking](https://img.shields.io/badge/Networking-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![Volumes](https://img.shields.io/badge/Volumes-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=05070D) ![MERN](https://img.shields.io/badge/MERN-00E5FF?style=flat-square&labelColor=05070D) ![Networking](https://img.shields.io/badge/Networking-A855F7?style=flat-square&labelColor=05070D) ![Volumes](https://img.shields.io/badge/Volumes-7C3AED?style=flat-square&labelColor=05070D)
 
 [**⚡ View Repository →**](https://github.com/Adityachandkaushik?tab=repositories)
 
@@ -438,7 +400,7 @@ Fully isolated service containers · Custom bridge networking · Persistent data
 <table width="100%">
 <tr><td>
 
-**🔧&nbsp; Jenkins Pipeline** &nbsp; ![](https://img.shields.io/badge/●_ACTIVE-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
+**🔧&nbsp; Jenkins Pipeline** &nbsp; ![](https://img.shields.io/badge/●_ACTIVE-A855F7?style=flat-square&labelColor=05070D)
 
 End-to-end CI pipeline: checkout from GitHub, build and test, scan with SonarQube and Trivy, then build and push a Docker image.
 
@@ -448,7 +410,7 @@ End-to-end CI pipeline: checkout from GitHub, build and test, scan with SonarQub
 <sub>**HIGHLIGHTS**</sub>
 Quality gate before merge · Vulnerability scan before publish · Fully scripted Jenkinsfile
 
-![Jenkins](https://img.shields.io/badge/Jenkins-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![SonarQube](https://img.shields.io/badge/SonarQube-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![Trivy](https://img.shields.io/badge/Trivy-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![Docker](https://img.shields.io/badge/Docker-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=05070D) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white&labelColor=05070D) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white&labelColor=05070D) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=05070D)
 
 [**⚡ View Repository →**](https://github.com/Adityachandkaushik?tab=repositories)
 
@@ -458,7 +420,7 @@ Quality gate before merge · Vulnerability scan before publish · Fully scripted
 <table width="100%">
 <tr><td>
 
-**📚&nbsp; Jenkins Shared Library** &nbsp; ![](https://img.shields.io/badge/●_REUSABLE-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
+**📚&nbsp; Jenkins Shared Library** &nbsp; ![](https://img.shields.io/badge/●_REUSABLE-00E5FF?style=flat-square&labelColor=05070D)
 
 Reusable Groovy pipeline functions that standardize common stages so they aren't rewritten across every project's Jenkinsfile.
 
@@ -468,7 +430,7 @@ Reusable Groovy pipeline functions that standardize common stages so they aren't
 <sub>**HIGHLIGHTS**</sub>
 DRY pipeline stages · Centralized maintenance · Consistent CI behavior across repos
 
-![Groovy](https://img.shields.io/badge/Groovy-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![Jenkins](https://img.shields.io/badge/Jenkins-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white&labelColor=05070D) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=05070D) ![CI/CD](https://img.shields.io/badge/CI%2FCD-A855F7?style=flat-square&labelColor=05070D)
 
 [**⚡ View Repository →**](https://github.com/Adityachandkaushik?tab=repositories)
 
@@ -478,7 +440,7 @@ DRY pipeline stages · Centralized maintenance · Consistent CI behavior across 
 <table width="100%">
 <tr><td>
 
-**🔗&nbsp; Docker + Jenkins Deployment** &nbsp; ![](https://img.shields.io/badge/●_END_TO_END-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
+**🔗&nbsp; Docker + Jenkins Deployment** &nbsp; ![](https://img.shields.io/badge/●_END_TO_END-7C3AED?style=flat-square&labelColor=05070D)
 
 The full loop — connecting the Jenkins pipeline above to an actual Docker deployment step, closing the gap between "build passes" and "it's live."
 
@@ -488,7 +450,7 @@ The full loop — connecting the Jenkins pipeline above to an actual Docker depl
 <sub>**HIGHLIGHTS**</sub>
 Closes CI → CD gap · Automated container rollout · Verified live deployment step
 
-![Jenkins](https://img.shields.io/badge/Jenkins-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![Docker](https://img.shields.io/badge/Docker-0B1020?style=flat-square&labelColor=05070D&color=0B1020) ![Deployment](https://img.shields.io/badge/Deployment-0B1020?style=flat-square&labelColor=05070D&color=0B1020)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=05070D) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=05070D) ![Deployment](https://img.shields.io/badge/Deployment-00E5FF?style=flat-square&labelColor=05070D)
 
 [**⚡ View Repository →**](https://github.com/Adityachandkaushik?tab=repositories)
 
@@ -511,9 +473,9 @@ Closes CI → CD gap · Automated container rollout · Verified live deployment 
 
 <br>
 
-<sub>07 / SECTION</sub>
+<sub>◆ 07 / SECTION ◆</sub>
 
-# 📊 GITHUB STATS DASHBOARD
+## 📊 GITHUB STATS DASHBOARD
 
 <sub>ACTIVITY, LANGUAGES &amp; CONTRIBUTIONS</sub>
 
@@ -521,22 +483,22 @@ Closes CI → CD gap · Automated container rollout · Verified live deployment 
 
 <table width="100%">
 <tr>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Adityachandkaushik&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=radical&hide_border=true&bg_color=05070D&title_color=00E5FF&icon_color=A855F7&text_color=F8FAFC" /></td>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachandkaushik&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=05070D&title_color=00E5FF&text_color=F8FAFC" /></td>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Adityachandkaushik&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=00E5FF&icon_color=A855F7&text_color=F8FAFC" /></td>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachandkaushik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=00E5FF&text_color=F8FAFC" /></td>
 </tr>
 </table>
 
 <br>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=Adityachandkaushik&theme=radical&hide_border=true&background=05070D&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF" />
+<img width="100%" src="https://streak-stats.demolab.com?user=Adityachandkaushik&theme=tokyonight&hide_border=true&background=05070D&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF&sideNums=F8FAFC&currStreakNum=F8FAFC&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak Stats" />
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachandkaushik&theme=redical&hide_border=true&bg_color=05070D&color=00E5FF&line=7C3AED&point=A855F7" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachandkaushik&theme=tokyo-night&hide_border=true&bg_color=05070D&color=00E5FF&line=7C3AED&point=A855F7" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adityachandkaushik&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Adityachandkaushik&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -550,9 +512,9 @@ Closes CI → CD gap · Automated container rollout · Verified live deployment 
 
 <br>
 
-<sub>08 / SECTION</sub>
+<sub>◆ 08 / SECTION ◆</sub>
 
-# 🧭 CAREER ROADMAP
+## 🧭 CAREER ROADMAP
 
 <sub>NOW → NEXT → AHEAD</sub>
 
@@ -582,19 +544,19 @@ timeline
 
 <br>
 
-<sub>09 / SECTION</sub>
+<sub>◆ 09 / SECTION ◆</sub>
 
-# 📡 LET'S CONNECT
+## 📡 LET'S CONNECT
 
 <sub>READY TO CONNECT?</sub>
 
-### 🔥 Open to DevOps, Cloud, and Platform Engineering conversations and opportunities.
+### 🔥 Open to DevOps, Cloud, and Platform Engineering opportunities.
 
 <br>
 
-<a href="https://www.linkedin.com/in/aditya-kaushik-11b39b276/"><img src="https://img.shields.io/badge/💬_MESSAGE_ME_ON_LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=05070D" /></a>
+<a href="https://www.linkedin.com/in/aditya-kaushik-11b39b276/"><img src="https://img.shields.io/badge/💬_MESSAGE_ME_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070D" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/Adityachandkaushik"><img src="https://img.shields.io/badge/🚀_BROWSE_MY_GITHUB-05070D?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=05070D" /></a>
+<a href="https://github.com/Adityachandkaushik"><img src="https://img.shields.io/badge/🚀_BROWSE_MY_GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=05070D" /></a>
 
 </div>
 
