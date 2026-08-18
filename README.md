@@ -484,8 +484,8 @@ Closes CI → CD gap · Automated container rollout · Verified live deployment 
 
 <table width="100%">
 <tr>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Adityachandkaushik&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=00E5FF&icon_color=A855F7&text_color=F8FAFC" /></td>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachandkaushik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=00E5FF&text_color=F8FAFC" /></td>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Adityachandkaushik&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=00E5FF&icon_color=A855F7&text_color=F8FAFC&v=2" /></td>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityachandkaushik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=05070D&title_color=00E5FF&text_color=F8FAFC&v=2" /></td>
 </tr>
 </table>
 
@@ -493,7 +493,7 @@ Closes CI → CD gap · Automated container rollout · Verified live deployment 
 
 <!-- Streak stats: pinned to a stable render endpoint with matching theme + explicit
      date/border colors so the card doesn't fall back to a blank/broken state. -->
-<img width="100%" src="https://streak-stats.demolab.com?user=Adityachandkaushik&theme=tokyonight&hide_border=true&border_radius=8&background=05070D&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF&sideNums=F8FAFC&currStreakNum=F8FAFC&sideLabels=94A3B8&dates=94A3B8&card_width=800" alt="GitHub Streak Stats" />
+<img width="100%" src="https://streak-stats.demolab.com?user=Adityachandkaushik&theme=tokyonight&hide_border=true&border_radius=8&background=05070D&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF&sideNums=F8FAFC&currStreakNum=F8FAFC&sideLabels=94A3B8&dates=94A3B8&card_width=800&v=2" alt="GitHub Streak Stats" />
 
 <br><br>
 
@@ -501,13 +501,13 @@ Closes CI → CD gap · Automated container rollout · Verified live deployment 
      always mirrors the actual public contribution graph on the profile page. -->
 <sub>🗓️ **CONTRIBUTION CALENDAR**</sub>
 
-<img width="100%" src="https://ghchart.rshah.org/00E5FF/Adityachandkaushik" alt="Aditya's GitHub contribution chart" />
+<img width="100%" src="https://ghchart.rshah.org/00E5FF/Adityachandkaushik?v=2" alt="Aditya's GitHub contribution chart" />
 
 <br><br>
 
 <sub>📈 **YEARLY ACTIVITY BREAKDOWN**</sub>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachandkaushik&theme=tokyo-night&hide_border=true&bg_color=05070D&color=00E5FF&line=7C3AED&point=A855F7&area=true&area_color=7C3AED" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachandkaushik&theme=tokyo-night&hide_border=true&bg_color=05070D&color=00E5FF&line=7C3AED&point=A855F7&area=true&area_color=7C3AED&v=2" />
 
 <br><br>
 
