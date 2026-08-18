@@ -33,7 +33,8 @@
 <a href="#-pipeline"><img src="https://img.shields.io/badge/05_PIPELINE-7C3AED?style=flat-square&labelColor=05070D" /></a>
 <a href="#-projects"><img src="https://img.shields.io/badge/06_PROJECTS-A855F7?style=flat-square&labelColor=05070D" /></a>
 <a href="#-stats"><img src="https://img.shields.io/badge/07_STATS-00E5FF?style=flat-square&labelColor=05070D" /></a>
-<a href="#-connect"><img src="https://img.shields.io/badge/08_CONTACT-7C3AED?style=flat-square&labelColor=05070D" /></a>
+<a href="#-roadmap"><img src="https://img.shields.io/badge/08_ROADMAP-7C3AED?style=flat-square&labelColor=05070D" /></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/09_CONTACT-A855F7?style=flat-square&labelColor=05070D" /></a>
 
 </div>
 
@@ -490,15 +491,32 @@ Closes CI → CD gap · Automated container rollout · Verified live deployment 
 
 <br>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=Adityachandkaushik&theme=tokyonight&hide_border=true&background=05070D&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF&sideNums=F8FAFC&currStreakNum=F8FAFC&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak Stats" />
+<!-- Streak stats: pinned to a stable render endpoint with matching theme + explicit
+     date/border colors so the card doesn't fall back to a blank/broken state. -->
+<img width="100%" src="https://streak-stats.demolab.com?user=Adityachandkaushik&theme=tokyonight&hide_border=true&border_radius=8&background=05070D&ring=00E5FF&fire=A855F7&currStreakLabel=00E5FF&sideNums=F8FAFC&currStreakNum=F8FAFC&sideLabels=94A3B8&dates=94A3B8&card_width=800" alt="GitHub Streak Stats" />
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachandkaushik&theme=tokyo-night&hide_border=true&bg_color=05070D&color=00E5FF&line=7C3AED&point=A855F7" />
+<!-- Real GitHub contribution calendar (daily commit heatmap), rendered as an SVG that
+     always mirrors the actual public contribution graph on the profile page. -->
+<sub>🗓️ **CONTRIBUTION CALENDAR**</sub>
+
+<img width="100%" src="https://ghchart.rshah.org/00E5FF/Adityachandkaushik" alt="Aditya's GitHub contribution chart" />
+
+<br><br>
+
+<sub>📈 **YEARLY ACTIVITY BREAKDOWN**</sub>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adityachandkaushik&theme=tokyo-night&hide_border=true&bg_color=05070D&color=00E5FF&line=7C3AED&point=A855F7&area=true&area_color=7C3AED" />
 
 <br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Adityachandkaushik&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
+
+<br>
+
+> [!NOTE]
+> Stat cards are served live from `vercel.app` / `demolab.com` and can occasionally sit in a cold-start or rate-limited state on first load — refresh the page if a card looks empty. The contribution calendar above pulls straight from GitHub's public commit history, so it always matches what's shown on the profile page.
 
 </div>
 
