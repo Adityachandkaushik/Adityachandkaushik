@@ -28,6 +28,28 @@
 
 <br><br>
 
+<table>
+<tr><td>
+
+```
+┌──────────────────── AT A GLANCE ─────────────────────┐
+  ROLE      Cloud & DevOps Engineer
+  COMPANY   MetConnect Infotech
+  LOCATION  Patna, Bihar, India
+  FOCUS     AWS · CI/CD · Docker · IaC
+  STATUS    Open to DevOps / Cloud / Platform roles
+└────────────────────────────────────────────────────────┘
+```
+
+</td></tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:A855F7&height=2&width=280" />
+
+<br>
+
 <sub>
 
 <a href="#-about"><b>01 ABOUT</b></a> &nbsp;›&nbsp;
@@ -58,6 +80,8 @@
 
 ## 🖥️ ABOUT ME
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=3&width=90" />
+
 <sub>INFRASTRUCTURE &nbsp;•&nbsp; AUTOMATION &nbsp;•&nbsp; RELIABILITY</sub>
 
 </div>
@@ -69,7 +93,7 @@
 <td width="55%" valign="top">
 
 ```yaml
-● ● ●  root@devops-node — zsh
+🔴 🟡 🟢  root@devops-node — zsh
 ┌──────────────────────────────────────────────┐
 │  root@devops-node ~ %  SYSTEM ONLINE  🟢      │
 └──────────────────────────────────────────────┘
@@ -140,6 +164,8 @@ $ _█
 
 ## 🚀 CURRENT FOCUS
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=3&width=90" />
+
 <sub>WHAT I'M ACTIVELY WORKING ON RIGHT NOW</sub>
 
 </div>
@@ -198,6 +224,8 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 `[ 03 / SECTION ]`
 
 ## 🔥 LEVELING UP
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=3&width=90" />
 
 <sub>ENGINEERING SKILLS — CURRENT PROGRESS</sub>
 
@@ -267,6 +295,10 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 `[ 04 / SECTION ]`
 
 ## 💠 TECH ARSENAL
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=3&width=90" />
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,bash,git,github,nginx&theme=dark&perline=9" />
 
@@ -340,6 +372,8 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 ## 🔁 CI/CD PIPELINE — LIVE
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=3&width=90" />
+
 <sub>SOURCE → BUILD → QUALITY GATE → SECURITY → CONTAINER → REGISTRY → DEPLOY → HEALTH</sub>
 
 </div>
@@ -391,6 +425,8 @@ $ pipeline run --project brilliant-pipeline --live
 `[ 06 / SECTION ]`
 
 ## 🛰️ FEATURED PROJECTS
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=3&width=90" />
 
 <sub>PRODUCTION &amp; PIPELINE WORK</sub>
 
@@ -543,6 +579,8 @@ Closes CI → CD gap · Automated container rollout · Verified live deployment 
 
 ## 📊 GITHUB STATS DASHBOARD
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=3&width=90" />
+
 <sub>ACTIVITY, LANGUAGES &amp; CONTRIBUTIONS</sub>
 
 <br>
@@ -599,6 +637,8 @@ Closes CI → CD gap · Automated container rollout · Verified live deployment 
 
 ## 🧭 CAREER ROADMAP
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=3&width=90" />
+
 <sub>NOW → NEXT → AHEAD</sub>
 
 </div>
@@ -630,6 +670,8 @@ timeline
 `[ 09 / SECTION ]`
 
 ## 📡 LET'S CONNECT
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A855F7&height=3&width=90" />
 
 <sub>READY TO CONNECT?</sub>
 
