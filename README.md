@@ -1,11 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,25:7C3AED,50:00E5FF,75:7C3AED,100:05070D&height=300&section=header&text=ADITYA%20KAUSHIK&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=CLOUD%20%26%20DEVOPS%20ENGINEER%20%E2%80%94%20AWS%20%C2%B7%20CI%2FCD%20%C2%B7%20DOCKER%20%C2%B7%20IaC&descAlignY=58&descSize=16&descColor=00E5FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,25:7C3AED,50:00E5FF,75:7C3AED,100:05070D&height=300&section=header&text=ADITYA%20KAUSHIK&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=32&desc=CLOUD%20%26%20DEVOPS%20ENGINEER%20%E2%80%94%20AWS%20%C2%B7%20CI%2FCD%20%C2%B7%20DOCKER%20%C2%B7%20IaC&descAlignY=52&descSize=16&descColor=00E5FF" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1100&color=00E5FF&center=true&vCenter=true&width=760&lines=Shipping+CI%2FCD+pipelines+with+Jenkins;Provisioning+AWS+infra+with+Terraform;Containerizing+%26+deploying+with+Docker;Automating+config+with+Ansible" alt="Typing SVG" />
 
 <br>
 
+<!-- system status strip -->
+![](https://img.shields.io/badge/●_SYSTEM_ONLINE-05070D?style=flat-square&labelColor=05070D&color=0B1020)
 ![](https://img.shields.io/badge/CI%2FCD-00E5FF?style=flat-square&labelColor=05070D)
 ![](https://img.shields.io/badge/CLOUD-7C3AED?style=flat-square&labelColor=05070D)
 ![](https://img.shields.io/badge/CONTAINERS-A855F7?style=flat-square&labelColor=05070D)
@@ -26,15 +28,19 @@
 
 <br><br>
 
-<a href="#-about"><img src="https://img.shields.io/badge/01_ABOUT-00E5FF?style=flat-square&labelColor=05070D" /></a>
-<a href="#-current-focus"><img src="https://img.shields.io/badge/02_FOCUS-7C3AED?style=flat-square&labelColor=05070D" /></a>
-<a href="#-in-progress"><img src="https://img.shields.io/badge/03_LEARNING-A855F7?style=flat-square&labelColor=05070D" /></a>
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/04_STACK-00E5FF?style=flat-square&labelColor=05070D" /></a>
-<a href="#-pipeline"><img src="https://img.shields.io/badge/05_PIPELINE-7C3AED?style=flat-square&labelColor=05070D" /></a>
-<a href="#-projects"><img src="https://img.shields.io/badge/06_PROJECTS-A855F7?style=flat-square&labelColor=05070D" /></a>
-<a href="#-stats"><img src="https://img.shields.io/badge/07_STATS-00E5FF?style=flat-square&labelColor=05070D" /></a>
-<a href="#-roadmap"><img src="https://img.shields.io/badge/08_ROADMAP-7C3AED?style=flat-square&labelColor=05070D" /></a>
-<a href="#-connect"><img src="https://img.shields.io/badge/09_CONTACT-A855F7?style=flat-square&labelColor=05070D" /></a>
+<sub>
+
+<a href="#-about"><b>01 ABOUT</b></a> &nbsp;›&nbsp;
+<a href="#-current-focus"><b>02 FOCUS</b></a> &nbsp;›&nbsp;
+<a href="#-in-progress"><b>03 LEARNING</b></a> &nbsp;›&nbsp;
+<a href="#-tech-stack"><b>04 STACK</b></a> &nbsp;›&nbsp;
+<a href="#-pipeline"><b>05 PIPELINE</b></a> &nbsp;›&nbsp;
+<a href="#-projects"><b>06 PROJECTS</b></a> &nbsp;›&nbsp;
+<a href="#-stats"><b>07 STATS</b></a> &nbsp;›&nbsp;
+<a href="#-roadmap"><b>08 ROADMAP</b></a> &nbsp;›&nbsp;
+<a href="#-connect"><b>09 CONTACT</b></a>
+
+</sub>
 
 </div>
 
@@ -48,7 +54,7 @@
 
 <br>
 
-<sub>◆ 01 / SECTION ◆</sub>
+`[ 01 / SECTION ]`
 
 ## 🖥️ ABOUT ME
 
@@ -63,6 +69,7 @@
 <td width="55%" valign="top">
 
 ```yaml
+● ● ●  root@devops-node — zsh
 ┌──────────────────────────────────────────────┐
 │  root@devops-node ~ %  SYSTEM ONLINE  🟢      │
 └──────────────────────────────────────────────┘
@@ -129,7 +136,7 @@ $ _█
 
 <br>
 
-<sub>◆ 02 / SECTION ◆</sub>
+`[ 02 / SECTION ]`
 
 ## 🚀 CURRENT FOCUS
 
@@ -143,6 +150,8 @@ $ _█
 <tr>
 <td align="center" width="33%" valign="top">
 
+<sub>MODULE&nbsp;01</sub>
+
 ### ☁️ CLOUD
 `INFRASTRUCTURE`
 
@@ -153,6 +162,8 @@ Provisioning &amp; managing AWS — EC2, Aurora RDS, Route53, S3 — reliability
 </td>
 <td align="center" width="33%" valign="top">
 
+<sub>MODULE&nbsp;02</sub>
+
 ### 🔁 CI/CD
 `AUTOMATION`
 
@@ -162,6 +173,8 @@ Jenkins pipelines moving code from commit → container → deployment, hands of
 
 </td>
 <td align="center" width="33%" valign="top">
+
+<sub>MODULE&nbsp;03</sub>
 
 ### 🛡️ SECURITY
 `PIPELINE GATES`
@@ -182,7 +195,7 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 <br>
 
-<sub>◆ 03 / SECTION ◆</sub>
+`[ 03 / SECTION ]`
 
 ## 🔥 LEVELING UP
 
@@ -201,7 +214,11 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 <tr>
 <td width="33%" align="center">
 
-**🧱 TERRAFORM**
+```
+╭──────────────────╮
+│   🧱 TERRAFORM    │
+╰──────────────────╯
+```
 
 ![](https://progress-bar.xyz/80/?width=180&color=00E5FF&suffix=%25&title=)
 
@@ -210,7 +227,11 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 </td>
 <td width="33%" align="center">
 
-**🤖 ANSIBLE**
+```
+╭──────────────────╮
+│   🤖 ANSIBLE      │
+╰──────────────────╯
+```
 
 ![](https://progress-bar.xyz/70/?width=180&color=7C3AED&suffix=%25&title=)
 
@@ -219,7 +240,11 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 </td>
 <td width="33%" align="center">
 
-**🛡️ PIPELINE SECURITY**
+```
+╭──────────────────╮
+│  🛡️ PIPELINE SEC  │
+╰──────────────────╯
+```
 
 ![](https://progress-bar.xyz/72/?width=180&color=A855F7&suffix=%25&title=)
 
@@ -239,7 +264,7 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 <br>
 
-<sub>◆ 04 / SECTION ◆</sub>
+`[ 04 / SECTION ]`
 
 ## 💠 TECH ARSENAL
 
@@ -251,7 +276,7 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="34%" valign="top">
 
 <div align="center">
 
@@ -269,7 +294,7 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <div align="center">
 
@@ -279,6 +304,21 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=05070D)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white&labelColor=05070D)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=05070D)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+**🛠️ CORE ENGINEERING TOOLS**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=05070D)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=05070D)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=05070D)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=05070D)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=05070D)
 
 </div>
 
@@ -296,7 +336,7 @@ SonarQube &amp; Trivy wired into build stages — nothing ships without passing 
 
 <br>
 
-<sub>◆ 05 / SECTION ◆</sub>
+`[ 05 / SECTION ]`
 
 ## 🔁 CI/CD PIPELINE — LIVE
 
@@ -348,7 +388,7 @@ $ pipeline run --project brilliant-pipeline --live
 
 <br>
 
-<sub>◆ 06 / SECTION ◆</sub>
+`[ 06 / SECTION ]`
 
 ## 🛰️ FEATURED PROJECTS
 
@@ -361,12 +401,17 @@ $ pipeline run --project brilliant-pipeline --live
 <table width="100%">
 <tr><td>
 
+<sub>PROJECT&nbsp;01</sub>
+
 **📦&nbsp; GoPass Backend** &nbsp; ![](https://img.shields.io/badge/●_PRODUCTION-00E5FF?style=flat-square&labelColor=05070D)
 
 Node.js + Express + MongoDB backend deployed on AWS EC2 with Aurora RDS, fronted by AWS WAF for baseline request filtering.
 
 <sub>**ARCHITECTURE**</sub>
-`Client → AWS WAF → EC2 (Express API) → Aurora RDS`
+
+```
+Client → AWS WAF → EC2 (Express API) → Aurora RDS
+```
 
 <sub>**HIGHLIGHTS**</sub>
 Production-hardened REST API · WAF-filtered edge · Managed relational data on Aurora
@@ -381,12 +426,17 @@ Production-hardened REST API · WAF-filtered edge · Managed relational data on 
 <table width="100%">
 <tr><td>
 
+<sub>PROJECT&nbsp;02</sub>
+
 **🐳&nbsp; Docker Production Setup** &nbsp; ![](https://img.shields.io/badge/●_STABLE-7C3AED?style=flat-square&labelColor=05070D)
 
 Multi-container MERN stack orchestrated with Docker Compose — isolated frontend, backend, and database containers with custom networking and persistent volumes.
 
 <sub>**ARCHITECTURE**</sub>
-`frontend ⇄ backend ⇄ database` on a custom Docker network, backed by persistent volumes
+
+```
+frontend ⇄ backend ⇄ database   (custom Docker network + persistent volumes)
+```
 
 <sub>**HIGHLIGHTS**</sub>
 Fully isolated service containers · Custom bridge networking · Persistent data volumes
@@ -401,12 +451,17 @@ Fully isolated service containers · Custom bridge networking · Persistent data
 <table width="100%">
 <tr><td>
 
+<sub>PROJECT&nbsp;03</sub>
+
 **🔧&nbsp; Jenkins Pipeline** &nbsp; ![](https://img.shields.io/badge/●_ACTIVE-A855F7?style=flat-square&labelColor=05070D)
 
 End-to-end CI pipeline: checkout from GitHub, build and test, scan with SonarQube and Trivy, then build and push a Docker image.
 
 <sub>**ARCHITECTURE**</sub>
-`GitHub → Jenkins → Build/Test → SonarQube → Trivy → Docker Build/Push`
+
+```
+GitHub → Jenkins → Build/Test → SonarQube → Trivy → Docker Build/Push
+```
 
 <sub>**HIGHLIGHTS**</sub>
 Quality gate before merge · Vulnerability scan before publish · Fully scripted Jenkinsfile
@@ -421,12 +476,17 @@ Quality gate before merge · Vulnerability scan before publish · Fully scripted
 <table width="100%">
 <tr><td>
 
+<sub>PROJECT&nbsp;04</sub>
+
 **📚&nbsp; Jenkins Shared Library** &nbsp; ![](https://img.shields.io/badge/●_REUSABLE-00E5FF?style=flat-square&labelColor=05070D)
 
 Reusable Groovy pipeline functions that standardize common stages so they aren't rewritten across every project's Jenkinsfile.
 
 <sub>**ARCHITECTURE**</sub>
-`Shared Library (Groovy) ← imported by → N Jenkinsfiles`
+
+```
+Shared Library (Groovy) ← imported by → N Jenkinsfiles
+```
 
 <sub>**HIGHLIGHTS**</sub>
 DRY pipeline stages · Centralized maintenance · Consistent CI behavior across repos
@@ -441,12 +501,17 @@ DRY pipeline stages · Centralized maintenance · Consistent CI behavior across 
 <table width="100%">
 <tr><td>
 
+<sub>PROJECT&nbsp;05</sub>
+
 **🔗&nbsp; Docker + Jenkins Deployment** &nbsp; ![](https://img.shields.io/badge/●_END_TO_END-7C3AED?style=flat-square&labelColor=05070D)
 
 The full loop — connecting the Jenkins pipeline above to an actual Docker deployment step, closing the gap between "build passes" and "it's live."
 
 <sub>**ARCHITECTURE**</sub>
-`Jenkins Pipeline → Docker Build → Docker Deploy → Running Service`
+
+```
+Jenkins Pipeline → Docker Build → Docker Deploy → Running Service
+```
 
 <sub>**HIGHLIGHTS**</sub>
 Closes CI → CD gap · Automated container rollout · Verified live deployment step
@@ -474,7 +539,7 @@ Closes CI → CD gap · Automated container rollout · Verified live deployment 
 
 <br>
 
-<sub>◆ 07 / SECTION ◆</sub>
+`[ 07 / SECTION ]`
 
 ## 📊 GITHUB STATS DASHBOARD
 
@@ -530,7 +595,7 @@ Closes CI → CD gap · Automated container rollout · Verified live deployment 
 
 <br>
 
-<sub>◆ 08 / SECTION ◆</sub>
+`[ 08 / SECTION ]`
 
 ## 🧭 CAREER ROADMAP
 
@@ -562,7 +627,7 @@ timeline
 
 <br>
 
-<sub>◆ 09 / SECTION ◆</sub>
+`[ 09 / SECTION ]`
 
 ## 📡 LET'S CONNECT
 
